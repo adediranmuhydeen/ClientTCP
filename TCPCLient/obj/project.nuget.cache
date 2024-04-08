@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "g0yG50/1z9PYJpEmelDHXpsWsKAri8YGUPB4RN4VuorTh93AM2HNmEIrSdkD4miABYBQcubzJ0bl8oyEg5aIgA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\adediranma\\source\\repos\\TCPCLient\\TCPCLient\\TCPCLient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adediranma\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

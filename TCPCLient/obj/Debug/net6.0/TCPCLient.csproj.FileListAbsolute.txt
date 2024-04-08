@@ -1,0 +1,17 @@
+C:\Users\adediranma\source\repos\TCPCLient\TCPCLient\bin\Debug\net6.0\TCPCLient.exe
+C:\Users\adediranma\source\repos\TCPCLient\TCPCLient\bin\Debug\net6.0\TCPCLient.deps.json
+C:\Users\adediranma\source\repos\TCPCLient\TCPCLient\bin\Debug\net6.0\TCPCLient.runtimeconfig.json
+C:\Users\adediranma\source\repos\TCPCLient\TCPCLient\bin\Debug\net6.0\TCPCLient.dll
+C:\Users\adediranma\source\repos\TCPCLient\TCPCLient\bin\Debug\net6.0\TCPCLient.pdb
+C:\Users\adediranma\source\repos\TCPCLient\TCPCLient\obj\Debug\net6.0\TCPCLient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adediranma\source\repos\TCPCLient\TCPCLient\obj\Debug\net6.0\TCPCLient.AssemblyInfoInputs.cache
+C:\Users\adediranma\source\repos\TCPCLient\TCPCLient\obj\Debug\net6.0\TCPCLient.AssemblyInfo.cs
+C:\Users\adediranma\source\repos\TCPCLient\TCPCLient\obj\Debug\net6.0\TCPCLient.csproj.CoreCompileInputs.cache
+C:\Users\adediranma\source\repos\TCPCLient\TCPCLient\obj\Debug\net6.0\TCPCLient.dll
+C:\Users\adediranma\source\repos\TCPCLient\TCPCLient\obj\Debug\net6.0\refint\TCPCLient.dll
+C:\Users\adediranma\source\repos\TCPCLient\TCPCLient\obj\Debug\net6.0\TCPCLient.pdb
+C:\Users\adediranma\source\repos\TCPCLient\TCPCLient\obj\Debug\net6.0\TCPCLient.genruntimeconfig.cache
+C:\Users\adediranma\source\repos\TCPCLient\TCPCLient\obj\Debug\net6.0\ref\TCPCLient.dll
+C:\Users\adediranma\source\repos\TCPCLient\TCPCLient\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\adediranma\source\repos\TCPCLient\TCPCLient\obj\Debug\net6.0\TCPCLient.csproj.AssemblyReference.cache
+C:\Users\adediranma\source\repos\TCPCLient\TCPCLient\obj\Debug\net6.0\TCPCLient.csproj.Up2Date
